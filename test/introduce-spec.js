@@ -30,6 +30,7 @@ describe("Student class", () => {
   });
 });
 
+
 describe("Teacher class", () => {
 
   describe("Teacher instance method introduce", () => {
